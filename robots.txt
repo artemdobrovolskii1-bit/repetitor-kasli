@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artemdobrovolskii1-bit.github.io/repetitor-kasli/sitemap.xml
